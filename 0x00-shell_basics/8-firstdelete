@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo rm  /my _first_directory/betty
+rm betty
