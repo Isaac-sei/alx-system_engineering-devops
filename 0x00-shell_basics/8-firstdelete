@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -f /my _first_directory/betty
+sudo rm  /my _first_directory/betty
